@@ -1,3 +1,11 @@
+- title: Inagural Cancer Systems Biology Consortium West Coast Symposium
+  date: 2019-05-15
+  location: Oregon Health and Sciences University, Portland, OR
+  description: Presented our latest work on assessing drug resistance and distribution from noninvasive imaging data.
+  resources:
+    - title: Quantifying glioblastoma drug penetrance from experimental data
+      url: https://doi.org/10.1101/650184
+
 - title: Annual Meeting of the Society for Neuro-Oncology
   date: 2018-11-14
   location: New Orleans, Louisiana
