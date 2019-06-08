@@ -2,7 +2,7 @@
 order: 1
 title: "About Me"
 include: about-me.html
-image-url: https://fillmurray.com/400/400
+image-url: ./assets/images/Massey_self-portrait.jpg
 ---
 [//]: # (Currently aiming for high level, who I boil down to professionally, as opposed to a short bio. But want feedback on effectiveness from others.)
 
