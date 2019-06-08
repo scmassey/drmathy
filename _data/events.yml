@@ -1,3 +1,19 @@
+- title: Annual Meeting of the Society for Mathematical Biology
+  date: 2019-07-22
+  location: Université de Montréal, Montreal, QC
+  description: I will present results from the sentivity analysis of our model exploring resistance and blood-brain barrier penetrance of an investigational drug.
+  resources:
+    - title: Quantifying drug distribution and response dynamics in experimental glioblastoma
+      url: 
+
+- title: q-bio Summer School
+  date: 2019-07-15
+  location: Rice University, Houston, TX
+  description: I will be giving a research lecture and giving a tutorial on Latin Hypercube Sampling for sensitivity analysis. 
+  resources:
+    - title: 
+      url: 
+
 - title: Inagural Cancer Systems Biology Consortium West Coast Symposium
   date: 2019-05-15
   location: Oregon Health and Sciences University, Portland, OR
@@ -33,7 +49,7 @@
 - title: Annual Meeting of the Society for Neuro-Oncology
   date: 2017-11-16
   location: San Francisco, California
-  description: I presented a poster summarizing....
+  description: Highlighted an analysis of radiographic changes during adjuvant temozolomide therapy for glioblastoma.
   resources:
   - title: Change in extent of glioblastoma invasion following adjuvant temozolomide is driven by effect on non-enhancing tumor
     url: https://drive.google.com/file/d/12eCc6Sv3rkgVDa-bs6RMxHLlV4KnqFGb/view?usp=sharing
