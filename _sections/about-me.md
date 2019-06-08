@@ -2,7 +2,7 @@
 order: 1
 title: "About Me"
 include: about-me.html
-image-url: https://fillmurray.com/400/400
+image-url: ./assets/images/Massey_self-portrait.jpg
 ---
 [//]: # (About Me)
 
